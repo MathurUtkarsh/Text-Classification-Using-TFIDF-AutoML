@@ -1,1 +1,1 @@
-# Text-Classification-Using-TFIDF-AutoML
+# Text Classification Using TFIDF AutoML
